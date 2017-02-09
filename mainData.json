@@ -1,0 +1,17 @@
+[
+  {
+    "a": 1,
+    "b": 2,
+    "c": "http://finance.google.com/finance/info?client=ig&q=NSE:SENSEX"
+  },
+  {
+    "a": 3,
+    "b": 4,
+    "c": "http://finance.google.com/finance/info?client=ig&q=NSE:NIFTY"
+  },
+  {
+    "a": 5,
+    "b": 6,
+    "c": "http://finance.google.com/finance/info?client=ig&q=NSE:RELIANCE"
+  }
+]
